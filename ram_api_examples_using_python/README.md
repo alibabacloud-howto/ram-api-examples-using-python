@@ -17,17 +17,16 @@ This is a certain use case where in customer has quarterly security audit requir
 ### 3.1 Setup Environment
 Set up python environment on your local machine (mac).
 
-####3.1.1 Install Python  
+#### 3.1.1 Install Python  
 brew install python
 
-####3.1.2  Install aliyun-python-sdk-ram on your local machine.
+#### 3.1.2  Install aliyun-python-sdk-ram on your local machine.
 python -m pip install aliyun-python-sdk-ram
 
 Please refer to documentation for more details.
-
 https://www.alibabacloud.com/help/doc-detail/28777.htm?spm=a2c63.l28256.b99.195.1db628fdFugKai
 
-####3.1.3 Install beautifulSoup library for XML parsing.
+#### 3.1.3 Install beautifulSoup library for XML parsing.
 python -m pip install bs4
   
   
