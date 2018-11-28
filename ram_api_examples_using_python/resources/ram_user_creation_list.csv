@@ -1,0 +1,15 @@
+user,displayname,description,groupname,password,passwordreset,mfabindrequired
+Guda,Pradeep,Created by Python program,"AdminGroup,TestingGroup",12345678,TRUE,TRUE
+jeremy,pederson,Created by Python program,TestingGroup,12345678,TRUE,FALSE
+Nikesh,Gogia,Created by Python program,AdminGroup,12345678,TRUE,FALSE
+PradeepM,Menon,Created by Python program,TestingGroup,12345678,TRUE,FALSE
+Winson,Wensheng,Created by Python program,AdminGroup,12345678,TRUE,FALSE
+Sam,Jiaxin,Created by Python program,,12345678,TRUE,FALSE
+Shen,Yi,Created by Python program,,12345678,TRUE,FALSE
+Jans,Wei,Created by Python program,,12345678,TRUE,FALSE
+Chris,,,,12345678,TRUE,FALSE
+Siju,,,TestingGroup,12345678,TRUE,FALSE
+Sabith,,,AdminGroup,12345678,TRUE,FALSE
+Hong,,,TestingGroup,12345678,FALSE,FALSE
+Willow,,,AdminGroup,12345678,FALSE,FALSE
+Michael,,,TestingGroup,12345678,FALSE,FALSE
