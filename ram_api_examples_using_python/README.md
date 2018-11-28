@@ -70,7 +70,7 @@ Output File
 ![](images/bulk_creation.png)
 * Check your RAM screen in the alibaba cloud portal.
 ![](images/bulk_creation_console.png)
-### 4.1 How to Delete RAM users in Bulk: 
+### 4.2 How to Delete RAM users in Bulk: 
 * Make sure you have python environment setup and templates ready as mentioned in Step3.
 * Copy ram_users_bulk_deletion.py & ram_user_deletion_list.csv to a folder.
 * Update the code file with <AccessKey ID>,<Access Secret Key> and <Region ID> with your respective keys and save it. 
@@ -79,7 +79,7 @@ Output File
 ![](images/bulk_deletion.png)
 * Check your RAM screen in the alibaba cloud portal.
 ![](images/bulk_deletion_console.png)
-### 4.1 How to pull RAM users list: 
+### 4.3 How to pull RAM users list: 
 * Make sure you have python environment setup and templates ready as mentioned in Step3.
 * Copy pull_ram_users_list.py to a folder.
 * Update the code file with <AccessKey ID>,<Access Secret Key> and <Region ID> with your respective keys and save it.
