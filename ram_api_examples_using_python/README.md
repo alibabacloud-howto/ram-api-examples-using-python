@@ -7,9 +7,9 @@ We have identified 3 common use cases.
  
 ### 2.1 Usecase: Creation of RAM users in bulk
 This is a common use case where in newly on boarded customers wants to create RAM users in bulk with proper permissions. 
-### 2.2 Usecase. Deletion of RAM users in bulk
+### 2.2 Usecase: Deletion of RAM users in bulk
 This is another common use case where in admin would like to clean up dormant users as per the audit requirements etc.
-### 2.3 Usecase. Pull RAM users list
+### 2.3 Usecase: Pull RAM users list
 This is a certain use case where in customer has quarterly security audit requirement and as part that they need to pull the list of all RAM users to find out the dormant users who are not active for the last 3 months to fecilitate the clean up activities as per the audit requirements.
  
 ## 3. Prerequisites
