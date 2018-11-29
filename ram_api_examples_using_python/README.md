@@ -64,7 +64,7 @@ Output File
 ### 4.1 How to create RAM users in Bulk: 
 * Make sure you have python environment setup and templates ready as mentioned in Step3.
 * Copy ram_users_bulk_creation.py & ram_user_creation_list.csv to a folder.
-* Update the code file with your respective keys <AccessKey ID>,<Access Secret Key> and <Region ID> and save it. 
+* Update the code file with your respective keys (AccessKey ID,Access Secret Key and Region ID) and save it. 
 ![](images/keys_code_file.png)
 *Execute python ram_users_bulk_creation.py
 ![](images/bulk_creation.png)
@@ -73,7 +73,7 @@ Output File
 ### 4.2 How to Delete RAM users in Bulk: 
 * Make sure you have python environment setup and templates ready as mentioned in Step3.
 * Copy ram_users_bulk_deletion.py & ram_user_deletion_list.csv to a folder.
-* Update the code file with your respective keys <AccessKey ID>,<Access Secret Key> and <Region ID> and save it. 
+* Update the code file with your respective keys (AccessKey ID,Access Secret Key and Region ID) and save it. 
 ![](images/keys_code_file.png)
 * Execute python ram_users_bulk_deletion.py
 ![](images/bulk_deletion.png)
@@ -82,7 +82,7 @@ Output File
 ### 4.3 How to pull RAM users list: 
 * Make sure you have python environment setup and templates ready as mentioned in Step3.
 * Copy pull_ram_users_list.py to a folder.
-* Update the code file with your respective keys <AccessKey ID>,<Access Secret Key> and <Region ID> and save it.
+* Update the code file with your respective keys (AccessKey ID,Access Secret Key and Region ID) and save it.
 ![](images/keys_code_file.png)
 * Execute python pull_ram_users_list.py
 ![](images/pull_ram_users.png)
