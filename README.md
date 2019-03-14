@@ -92,13 +92,16 @@ We have identified 3 common use cases.
     2. Copy ram_users_bulk_creation.py & ram_user_creation_list.csv to a folder.
 
     3. Update the code file with your respective keys (AccessKey ID,Access Secret Key and Region ID) and save it.
-    ![](images/keys_code_file.png)
+
+        ![](images/keys_code_file.png)
 
     4. Execute python ram_users_bulk_creation.py
-    ![](images/bulk_creation.png)
+
+        ![](images/bulk_creation.png)
 
     5. Check your RAM screen in the alibaba cloud portal.
-    ![](images/bulk_creation_console.png)
+
+        ![](images/bulk_creation_console.png)
 
 2. How to Delete RAM users in Bulk:
 
@@ -107,13 +110,16 @@ We have identified 3 common use cases.
     2. Copy ram_users_bulk_deletion.py & ram_user_deletion_list.csv to a folder.
 
     3. Update the code file with your respective keys (AccessKey ID,Access Secret Key and Region ID) and save it.
-    ![](images/keys_code_file.png)
+
+        ![](images/keys_code_file.png)
 
     4. Execute python ram_users_bulk_deletion.py
-    ![](images/bulk_deletion.png)
+
+        ![](images/bulk_deletion.png)
 
     5. Check your RAM screen in the alibaba cloud portal.
-    ![](images/bulk_deletion_console.png)
+
+        ![](images/bulk_deletion_console.png)
 
 3. How to pull RAM users list:
 
@@ -122,11 +128,15 @@ We have identified 3 common use cases.
     2. Copy pull_ram_users_list.py to a folder.
 
     3. Update the code file with your respective keys (AccessKey ID,Access Secret Key and Region ID) and save it.
-    ![](images/keys_code_file.png)
+
+        ![](images/keys_code_file.png)
 
     4. Execute python pull_ram_users_list.py
-    ![](images/pull_ram_users.png)
+
+        ![](images/pull_ram_users.png)
 
     5. Check the folder for the output file ram_users_list.csv
-    ![](images/pull_ram_users_file.png)
-    ![](images/pull_ram_users_content.png)
+
+        ![](images/pull_ram_users_file.png)
+
+        ![](images/pull_ram_users_content.png)
